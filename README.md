@@ -1,2 +1,2 @@
 # CRUD-repository
-sample web
+sample project for CRUD(Create Read Update Delete)..........!

@@ -1,2 +1,2 @@
 # CRUD-repository
-sample project for CRUD(Create Read Update Delete)..........!
+simple project, which implement the concept of CRUD (Create Read Update Delete) operations..........!

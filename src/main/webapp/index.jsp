@@ -32,7 +32,7 @@
 
 <body>
     <div class="text-center grey shadow">
-        <h1 class="home-h1 p-4">-----Welcome to my Application-----</h1>
+        <h1 class="home-h1 p-4">-----Welcome to the Application-----</h1>
         <div class="d-flex flex-row justify-content-center mt-4">
             <div class="card1">
                 <h2 class="mt-3">To Create User</h2>
